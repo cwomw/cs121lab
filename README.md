@@ -1,2 +1,2 @@
 # cs121lab
-Lab class projects and Lecs
+Lab class projects and more
