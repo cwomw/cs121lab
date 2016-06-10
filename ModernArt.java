@@ -1,4 +1,4 @@
-/**   This program will reproduce art of Piet Mondrain
+/**   This program will reproduce art of Mike Wright
 *
 *
 *
@@ -8,10 +8,25 @@
 */
 public class ModernArt
 {
-    public static void main(String[] args);
+	public static void main(String[]args)
     {
-    System.out.pl("-(<>)(<>)(<>)(<>)(<>)(<>)(<>)(<>)(<>)(<>)-");
-    System.out.pl("-(<>)(<>)(<>)(<>)(<>)(<>)(<>)(<>)(<>)(<>)-");
-    System.out.pl("-\u2576\u25co\u25b7\u25c1-");
+	System.out.println("                THE TARGET");
+	System.out.println(); 
+    System.out.println("-(<>)(<>)(<>)(<>)(<>)|(<>)(<>)(<>)(<>)(<>)-");
+    System.out.println("-(<>)(<>)(<>)(<>)(<>)|(<>)(<>)(<>)(<>)(<>)-");
+    System.out.println("-(<>)(<>)(<>)(<>)(<>)|(<>)(<>)(<>)(<>)(<>)-");
+    System.out.println("-(<>)(<>)(<>)(<>)(<>)|(<>)(<>)(<>)(<>)(<>)-");
+    System.out.println("-(<>)(<>)(<>)(<>)(<>)|(<>)(<>)(<>)(<>)(<>)-");
+    System.out.println("-(<>)(<>)(<>)(<>)(<>)|(<>)(<>)(<>)(<>)(<>)-");
+    System.out.println("-(<>)----------------|----------------(<>)-");
+    System.out.println("-(<>)(<>)(<>)(<>)(<>)|(<>)(<>)(<>)(<>)(<>)-");
+    System.out.println("-(<>)(<>)(<>)(<>)(<>)|(<>)(<>)(<>)(<>)(<>)-");
+    System.out.println("-(<>)(<>)(<>)(<>)(<>)|(<>)(<>)(<>)(<>)(<>)-");
+    System.out.println("-(<>)(<>)(<>)(<>)(<>)|(<>)(<>)(<>)(<>)(<>)-");
+    System.out.println("-(<>)(<>)(<>)(<>)(<>)|(<>)(<>)(<>)(<>)(<>)-");
+    System.out.println("-(<>)(<>)(<>)(<>)(<>)|(<>)(<>)(<>)(<>)(<>)-");
+    
+    
+    
     }
 }
